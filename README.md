@@ -1,6 +1,6 @@
 ## Sistema de Abas (Tabs) com HTML, CSS e JavaScript
 
-###Descrição
+### Descrição
 Este projeto implementa um sistema de abas interativas (tabs) usando HTML, CSS e JavaScript. O layout apresenta um conjunto de abas na parte superior, e cada aba, quando clicada, exibe um conteúdo relacionado, com uma imagem e uma descrição.
 
 Este exemplo mostra como integrar essas três tecnologias para criar uma navegação simples e interativa entre diferentes seções de conteúdo.
